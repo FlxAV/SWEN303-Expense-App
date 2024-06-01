@@ -1,7 +1,9 @@
 # Personas
 
 Name: Alex Singh
+
 Age: 32
+
 Occupation: Senior Software Engineer
 Location: New Zealand
 Education:  Bachelor of Engineering degree
