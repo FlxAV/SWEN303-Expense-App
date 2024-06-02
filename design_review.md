@@ -19,8 +19,47 @@ We chose to employ a heuristic evaluation method based on Nielsen's 10 Usability
 
 ## Heuristic Evaluation - Completed by Felix
 
+| Heuristic                         | Severity | Issues | Recommendation/Comments |
+|-----------------------------------|----------|--------|--------------------------|
+| Visibility of System Status       |          |        |                          |
+| Match between system and the real world |          |        |                          |
+| User control & freedom            |          |        |                          |
+| Consistency & standards           |          |        |                          |
+| Error prevention                  |          |        |                          |
+| Recognition rather than recall    |          |        |                          |
+| Flexibility & efficiency of use   |          |        |                          |
+| Aesthetic & minimalist design     |          |        |                          |
+| Help users recover                |          |        |                          |
+| Help & documentation              |          |        |                          |
+
 
 ## Heuristic Evaluation - Completed by Elliot
 
+| Heuristic                         | Severity | Issues | Recommendation/Comments |
+|-----------------------------------|----------|--------|--------------------------|
+| Visibility of System Status       |          |        |                          |
+| Match between system and the real world |          |        |                          |
+| User control & freedom            |          |        |                          |
+| Consistency & standards           |          |        |                          |
+| Error prevention                  |          |        |                          |
+| Recognition rather than recall    |          |        |                          |
+| Flexibility & efficiency of use   |          |        |                          |
+| Aesthetic & minimalist design     |          |        |                          |
+| Help users recover                |          |        |                          |
+| Help & documentation              |          |        |                          |
+
 
 ## Heuristic Evaluation - Completed by Dillon
+
+| Heuristic                         | Severity | Issues | Recommendation/Comments |
+|-----------------------------------|----------|--------|--------------------------|
+| Visibility of System Status       |          |        |                          |
+| Match between system and the real world |          |        |                          |
+| User control & freedom            |          |        |                          |
+| Consistency & standards           |          |        |                          |
+| Error prevention                  |          |        |                          |
+| Recognition rather than recall    |          |        |                          |
+| Flexibility & efficiency of use   |          |        |                          |
+| Aesthetic & minimalist design     |          |        |                          |
+| Help users recover                |          |        |                          |
+| Help & documentation              |          |        |                          |
