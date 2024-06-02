@@ -30,7 +30,7 @@ These designs aim to streamline the user experience by making key functions easi
 
 #### Dashboard Page
 - **Description:** Upon first logging into the system, the user is presented with the Dashboard page. This page prominently displays the two most important details to the user (how much is owed to you, and how much is owed by you) along with arrows for a simple visual indicator differentiating between the two reducing the mental load required. Just below these two important core statistics are their related quick action buttons to directly navigate to either the expense payment or expense creation pages. Lastly, a basic activity line graph showing an historic overview and a recent expenses table are included.
-- **Wireframe:**
+
 ![Dillon Dashboard Page](images/AddExpense1.png)
 
 #### Add Expense Page (Wizard Step 1)
