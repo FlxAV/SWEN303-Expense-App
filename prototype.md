@@ -7,3 +7,6 @@ https://www.figma.com/proto/7yPqz8OkOydUZzwXjxEDfI/Merging-Wireframes?page-id=11
 
 ## Portotype Description
 
+
+
+![Felix Expenses Tab](images/Get_Started.png)
