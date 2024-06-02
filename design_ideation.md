@@ -4,6 +4,25 @@
 This section documents the ideation process for our app prototype. It includes the original designs from Assignment 2 and the subsequent revisions and iterations that led to our final design choices.
 
 ## Original Designs from Assignment 2
+
+
+### Felix Vidal:
+
+This section presents the various designs (wireframes and user flows) that were developed for Assignment 2. While I did not fully grasp the brief initially, resulting in the creation of design layouts for three specific tabs rather than comprehensive wireframes, I still considered the necessary elements during the design process.
+
+Expenses Tab
+In the Expenses tab, a navigation bar at the top includes the following tabs: Expenses (current view), Statistics, Settings, and Profile. This navigation bar is set against a blue background, creating a header that frames the app and improves visual clarity. A prominent blue plus sign button, located at the bottom right corner for easy access with the right thumb, serves as the main button for adding a new expense. The Expenses tab displays a chronological history of all expenses, each entry featuring an icon, name, date, and amount of the expense. A search bar at the bottom, which slides up to reveal a keyboard, allows users to search for specific expenses and filter results by type or amount.
+
+Add Expense Tab
+When the user clicks the blue plus button, the Add Expense tab appears. The navigation bar disappears for a cleaner view, but the header remains with "Add Expense" displayed, indicating the current function. An arrow icon allows users to return to the Expenses tab. This tab includes fields for entering the name, amount, date, and a note for the expense. Additionally, there is a checkbox labeled "Split Expense?" for users who want to divide the cost among multiple people. A large blue "Save" button at the bottom ensures visibility and encourages users to save the expense rather than accidentally navigating back.
+
+Split Expense Feature
+If the user selects the "Split Expense?" checkbox, the Add Expense tab expands to include additional fields. A search bar appears, allowing the user to find and select people to split the expense with. Selected individuals are displayed in a list below the search bar, with the most recently added person at the top. The default setting evenly distributes the expense amount among the selected people, but users have the option to input specific amounts or percentages for each person. This flexibility reduces the need for manual input while allowing for customization if needed.
+These designs aim to streamline the user experience by making key functions easily accessible and ensuring the interface is intuitive and efficient.
+
+
+
+
 ### Dashboard
 - **Description:** Overview of expenses, recent activity, and upcoming bills.
 - **Wireframe:**
@@ -95,3 +114,8 @@ Based on feedback from our initial designs, we made several changes to improve t
 
 ## Conclusion
 The wireframes and user flows presented here form the foundation of our app prototype. These designs were iteratively improved based on usability principles, guiding the development of the functional prototype.
+
+
+
+
+
