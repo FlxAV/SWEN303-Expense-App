@@ -6,7 +6,8 @@ This section documents the ideation process for our app prototype. It includes t
 ## Original Designs from Assignment 2
 
 
-Felix:
+#Felix:
+
 This section presents the various designs (wireframes and user flows) that were developed for Assignment 2. While I did not fully grasp the brief initially, resulting in the creation of design layouts for three specific tabs rather than comprehensive wireframes, I still considered the necessary elements during the design process.
 
 Expenses Tab
