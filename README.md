@@ -16,4 +16,4 @@ This project is a prototype for an app that helps flatmates manage their expense
 - Elliott Rose (roseelli) - 
 - Dillon Sykes (sykesdill) - 300196292
 - Felix Vidal (vidalfeli) - 300586433
-- James Fitzgerald (fitzgejame1) - 
+- James Fitzgerald (fitzgejame1) - 300540768
