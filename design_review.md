@@ -33,20 +33,20 @@ We chose to employ a heuristic evaluation method based on Nielsen's 10 Usability
 | Help & documentation              |      1    |    There is a lack of immediate help or tooltips that explain how to use certain features, which can be problematic for new users.    |           Include contextual help and tooltips that provide users with quick, relevant information about how to use various features. A comprehensive help section or user guide accessible from within the app would also be beneficial.      |
 
 
-## Heuristic Evaluation - Completed by Elliot
+## Heuristic Evaluation - Completed by Elliott
 
 | Heuristic                         | Severity | Issues | Recommendation/Comments |
 |-----------------------------------|----------|--------|--------------------------|
-| Visibility of System Status       |          |        |                          |
-| Match between system and the real world |          |        |                          |
-| User control & freedom            |          |        |                          |
-| Consistency & standards           |          |        |                          |
-| Error prevention                  |          |        |                          |
-| Recognition rather than recall    |          |        |                          |
-| Flexibility & efficiency of use   |          |        |                          |
-| Aesthetic & minimalist design     |          |        |                          |
-| Help users recover                |          |        |                          |
-| Help & documentation              |          |        |                          |
+| Visibility of System Status       |     2     |      Little visibility for wether members are able to be removed from groups/expenses |         create clear and intuitive buttons for removing members                 |
+| Match between system and the real world |     1     |    Small changes may need to be made to interface for removing members.    |            Good use of typical flows of operations, (Create group -> Add members -> Create expense). Navigation tabs and hotbars are similarly used in other main stream apps. All language is familiar.              |
+| User control & freedom            |     0     |       |            Complete freedom for user with availability to set descriptions for expenses and groups as well as uploading their own images for group profile identification. Users also have the availability to personalise and change their account name, email, username, phone number, Gender, Pronouns.             |
+| Consistency & standards           |     1     |    Small issues with design consistency, for instance beveling around edges of UI cards are not the same throughout the app, font sizing needed to be more consistent and follow patterns.    |             To improve this, make button and text templates to copy throughout the wireframes.             |
+| Error prevention                  |     0     |        |           All tabs have confimation requests where applicable.               |
+| Recognition rather than recall    |     1     |    small things were overlooked that would affect the overall flow for a first time user    |                   follows consistent design pattern patterns, everything is easily readable for the most part, some small things such as more intuitive ways to remove members / friends bring the score up.     |
+| Flexibility & efficiency of use   |     1     |      There are some small improvements to be made in the management tab, specifically the process of adding friends, group members and expenses.   |             creating more a more intuitive flow from one page to the other as well as clearer buttons in the friends tab would solve this.             |
+| Aesthetic & minimalist design     |     0     |         |            colors were not overused, buttons were kept non invasive and the overall design was not cluttered              | 
+| Help users recover                |     0     |       |                 users are given the oppertunity to click edit or go back to certain properties such as expenses and groups as well as pages that require you to go into.         |
+| Help & documentation              |     3     |    there are no documentation or help offered for most of the app  |                     small amounts of help / documentation is offered in the log in window and some of the profile settings     |
 
 
 ## Heuristic Evaluation - Completed by Dillon
