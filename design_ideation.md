@@ -10,7 +10,7 @@ This section documents the ideation process for our app prototype. It includes t
 
 This section presents the various designs (wireframes and user flows) that were developed for Assignment 2. While I did not fully grasp the brief initially, resulting in the creation of design layouts for three specific tabs rather than comprehensive wireframes, I still considered the necessary elements during the design process.
 
-![Original Dashboard Wireframe](\swen303-group-project-part-1\images\SWEN303_Ass2_03.jpg)
+![Original Dashboard Wireframe](images/SWEN303_Ass2_03.jpg)
 
 Expenses Tab
 In the Expenses tab, a navigation bar at the top includes the following tabs: Expenses (current view), Statistics, Settings, and Profile. This navigation bar is set against a blue background, creating a header that frames the app and improves visual clarity. A prominent blue plus sign button, located at the bottom right corner for easy access with the right thumb, serves as the main button for adding a new expense. The Expenses tab displays a chronological history of all expenses, each entry featuring an icon, name, date, and amount of the expense. A search bar at the bottom, which slides up to reveal a keyboard, allows users to search for specific expenses and filter results by type or amount.
