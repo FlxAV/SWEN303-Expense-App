@@ -13,31 +13,41 @@ In this section, we present the iterative design process that led to our final p
 We also experimented with adding colour to the navigation, highlighting the central location for the user to add items from.
 ![Updated Dashboard Wireframe](images/navigation-design-2.png)
 
-#### Add Expense
-- **Changes Made:**
-- **Updated Wireframe:**
-  ![Updated Add Expense Wireframe](path_to_updated_add_expense_wireframe_image)
+### Logos Ideas
+- **Design Choices:** Felix created some mock up logos for the app, providing us potential options we could use.
 
-#### Split Bill
-- **Changes Made:**
-- **Updated Wireframe:**
-  ![Updated Split Bill Wireframe](path_to_updated_split_bill_wireframe_image)
+![Updated Dashboard Wireframe](images/logo-designs.png)
 
-#### Notifications
-- **Changes Made:**
-- **Updated Wireframe:**
-  ![Updated Notifications Wireframe](path_to_updated_notifications_wireframe_image)
+### Colour Scheme
+- **Design Choices:** Selected a color scheme that is both visually appealing and accessible. The colors were chosen to ensure readability and a pleasant user experience. The primary colour of purple was chosen as it is associated with wealth and finance.
 
-## Final Design Choices
-### Colors
-- **Choice Rationale:** Selected a color scheme that is both visually appealing and accessible. The colors were chosen to ensure readability and a pleasant user experience. The primary colour of purple was chosen as it is associated with wealth and finance.
-- **Colour Scheme:**
-  ![Color Palette](path_to_color_palette_image)
+![Updated Dashboard Wireframe](images/colour-scheme.png)
 
-### Navigation
-- **Choice Rationale:** Simplified navigation to ensure ease of use. Key features are accessible from the main menu, with intuitive transitions between screens.
-- **Navigation Flow:**
-  ![Navigation Flow](path_to_navigation_flow_image)
+### Header Designs
+- **Design Choices:** Designs were created to determine which design works best, while following the UI/UX design rules. Here Dillon created several potential ideas to use for the "Manage" tab in the app.
+
+![Updated Dashboard Wireframe](images/header-iterations.png)
+
+Here we applied the colour scheme to the header designs to determine which was the most appealing to a user.
+![Updated Dashboard Wireframe](images/final-header-iterations.png)
+
+### Activity Page Content
+- **Design Choices:** Designs were created for the activity page, with the content on each individual group. What quick information should be shown to the user before they proceed to tap on the group to show all the associated expense and group information.
+
+![Updated Dashboard Wireframe](images/activity-bar-ideas.png)
+
+### Manage Page Content
+- **Design Choices:** Layouts were created for the activity page by Dillon, with the content for each group being displayed without having to go searching for it.
+
+![Updated Dashboard Wireframe](images/iteration-group-layouts.png)
+
+Here we Felix further iterated upon the idea.
+![Updated Dashboard Wireframe](images/money-display.png)
+
+### Manage Page Flow
+- **Design Choices:** The "Manage" page user flow was iterated upon and revised several times after brainstorming. Trying to achieve the most effective method for the user to add groups, add expenses the the group and add friends.
+
+![Updated Dashboard Wireframe](images/manage-tab-flow.png)
 
 ## Design Rationale
 - **Consistency:** Maintained a consistent design language throughout the app to ensure a smooth user experience.
