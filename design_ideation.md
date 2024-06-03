@@ -1,7 +1,7 @@
 # Design Ideation
 
 ## Introduction
-This section documents the ideation process for our app prototype. It includes the original designs from Assignment 2 and the subsequent revisions and iterations that led to our final design choices.
+This section documents the ideation process for our app prototype. It includes the original designs from Assignment 2 and the user flows each for each proposed design. These designs will be merged together while taking into account various UI/UX design rules, leading to our final design.
 
 ## Original Designs from Assignment 2
 
@@ -91,29 +91,44 @@ These designs aim to streamline the user experience by making key functions easi
 
 ### Elliot Rose:
 
+**Add tab**
 
+Here we can see my add function for my manage tab.
+Inside here the user is able to create a new expense and assign it to a specific group. 
+The user is given the option to specify the following information: 
+Date range, Category, Cost of the expense, Sharing the expense between group members, How much each member paid towards it, and a description of the expense. 
+Once finished with the process the user is asked to confirm by putting an overlay over the screen and asking to either confirm or cancel. 
+The whole process is made streamlined by the direct top to bottom flow of entering data as well as highlighting user entered data from grayed out to black, as well as using overlays for selected members.
+
+![Elliot1](images/Elliot1.png)
+
+**Debt tab**
+
+On this tab we can see the debt between the user and his/her group members. 
+The user is shown through various graphs/tables the desired data. 
+They are also given the option to choose the date range for the data and the members wanting to be shown.
+Once these options are decided they are also given the option to settle certain debts by highlighting them and confirming them. 
+Once again for design consistency there is an overlay used for the confirmation.
+Follows a very streamlined top to bottom flow like previous page.
+
+
+![Elliott2](images/Elliott2.png)
+
+**Overview tab**
+
+This tab is purely for view only. 
+The only option that you are given the oppertunity to change is the date range and this will change the way the data is presented to the user accordingly.
+
+![Elliott3](images/Elliott3.png)
 
 
 ### James Fitzgerald:
 
-![Dillon Dashboard Page](images/WF1.1.JPG)
+![James Image 2](images/WF1.1.JPG)
 
-![Dillon Dashboard Page](images/WF2.1.JPG)
+![James Image 2](images/WF2.1.JPG)
 
-![Dillon Dashboard Page](images/WF3.1.JPG)
-
-## User Flows
-### User Flow 1: Adding an Expense
-1. **Starting Point:** User is on the dashboard.
-2. **Action:** User clicks "Add Expense" button.
-3. **Expected Outcome:** User is taken to the "Add Expense" screen.
-4. **Actual Outcome:** Matches expected outcome. No issues found.
-
-### User Flow 2: Splitting a Bill
-1. **Starting Point:** User is on the dashboard.
-2. **Action:** User selects a bill to split.
-3. **Expected Outcome:** User is taken to the "Split Bill" screen.
-4. **Actual Outcome:** Matches expected outcome. No issues found.
+![James Image 2](images/WF3.1.JPG)
 
 ## Conclusion
 The wireframes and user flows presented here form the foundation of our app prototype. These designs were iteratively improved based on usability principles, guiding the development of the functional prototype.
