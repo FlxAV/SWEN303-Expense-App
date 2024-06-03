@@ -21,7 +21,7 @@ If you click on "Sign Up" you get taken to this page which requires you to fill 
 
 If you click on "Log In" this is the page which asks for your email and password, or to log in using Apple or Google.
 
-![4](images/Group_tab__un-filled.png)
+![4](images/Group_tab__un-filled_.png)
 
 Once Logged in you are taken to the main screen, which is the manage tab. In here if you have no groups it will look like so with a button to create groupe located in the middle in purple. Other noticeable things are the groups and friends tabs at the top which you can actually swipe left and right between the two. As welll as the hot bar at the bottom with 5 buttons: Manage, Analytics, Add, Activity, Profile.
 
@@ -74,7 +74,7 @@ In here is a search and filter that allows you to look up a person that uses the
 Clicking back takes us to the add members and clicking back again takes us to the specific group tab and clicking it again takes us to the "Groups" tab where all your groups are listed. Since we have ceated one group which now contains an expense it looks as follows:
 
 
-![16](images/Group_tab__filled__+_Expense.png)
+![16](images/Group_tab__filled__+_Expenses.png)
 
 This is the same as before except that now the group tab doesn't say "No expenses" but instead specifies the net amount that you are owed or that you owe accross all the expenses in the group, allowing you to see if you are up or down money in that group. Another thing is the widget expends to include a drop down that will list the top three people that either owe you or that you owe to. This is limited to three and then "..." to avoid being too large. We will now take a look at he "Friends" tab which we access by either clicking the button at the top right or by simply swiping right on your screen.
 
