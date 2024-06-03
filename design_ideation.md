@@ -93,7 +93,7 @@ These designs aim to streamline the user experience by making key functions easi
 
 **Description of App from Assignment 2**
 
-![Elliott1](images/Elliott1.png)
+![Elliot1](images/Elliott1.png)
 
 **Description of App from Assignment 2**
 
