@@ -8,146 +8,134 @@ https://www.figma.com/proto/7yPqz8OkOydUZzwXjxEDfI/Merging-Wireframes?page-id=11
 
 ## Prototype Description
 
-When opening the app, the user is presented with the getting started screen, allowing them to "**Log in**" or "**Sign Up**".
+When opening the app, the user is presented with the getting started screen, offering the options to "Log In" or "Sign Up".
 
 ![1](images/Get_Started.png)
 
-Clicking "**Sign Up**" will take you to the page below, requiring information to create a new account. Options to sign up using Google or Apple are offered, making the process smoother.
+Clicking "Sign Up" will take you to the page below, where you'll need to provide information to create a new account. Options to sign up using Google or Apple are also offered, making the process smoother and more convenient.
 
 ![2](images/Create_Account.png)
 
-When clicking "**Log In**", the below screen is shown requesting the users email and password.
+When clicking "Log In," the screen below is shown, requesting the user's email and password.
 
 ![3](images/Log_In.png)
 
-Once Logged in you are taken to the main "**Manage**" tab. If no groups have been created, it will look like the below screenshot with only a button to create a group. The tabs located at the top, "**Groups**" and "**Friends**" allow the user to swipe left and right between the two. There is a hot bar located at the bottom with 5 buttons: "**Manage**", "**Analytics**", "**Add**", "**Activity**", and "**Profile**".
+Once logged in, you are taken to the main "Manage" tab. If no groups have been created, it will display only a button to create a group. The tabs located at the top, "Groups" and "Friends," allow the user to swipe left and right between the two. At the bottom, there is a hot bar with five buttons: "Manage," "Analytics," "Add," "Activity," and "Profile."
 
 ![4](images/Group_tab__un-filled_.png)
 
-After clicking on the purple "**+ Create new group**" button you are taken to a tab to create said group. At the top would be the selected icon for the group with a plus which allows you to modify this to your liking (such as a waterdrop for water bills, lighting for electricity bill, etc). There are text fields for the group name, description, and a search bar. This search bar allows the user to look up the name of a friend that is in your friends list, along with a filter which lets the user narrow down their search.
+After clicking on the purple "+ Create new group" button, you are taken to a tab to create the group. At the top is the selected icon for the group, with a plus sign allowing you to modify it to your liking (e.g., a water drop for water bills, a light bulb for electricity bills, etc.). There are text fields for the group name and description, as well as a search bar. This search bar allows you to look up the name of a friend from your friends list, with a filter to narrow down your search.
 
-Beneath it is the members you have currently added to your group with a button that allows you to remove them if unwanted from the group. Beneath that again is a list of all your friends in alphabetical order which you can scroll through. In the top left is "**Back**" with an arrow, this would just take you back to the groups tab. At the top right is "**Done**" which you click once you have completed all the steps required for creating a group.
+Beneath the search bar are the members you have currently added to your group, with a button to remove any unwanted members. Below that is a list of all your friends in alphabetical order, which you can scroll through. In the top left is a "Back" button with an arrow, which takes you back to the groups tab. In the top right is a "Done" button, which you click once you have completed all the steps required for creating a group.
 
 ![5](images/Create_new_group.png)
 
-
-
 ![6](images/Group_tab__filled_.png)
 
-After clicking "Done" you would be taken back to the group tab as well, however this time the group you created will appear at the top. You will see the icon/image you selected for that group, as well as the avatar of the first three people in that group. If there are none, none would be shown, if one then one and so on... The words" No expenses" will be seen as well since there have been no expenses added to that group, and finally on the right is a right pointing arrow to invite the user to click on the group.
+After clicking "Done", you will be taken back to the group view, where you can see the newly created group. The selected icon or image for that group will be displayed, along with the avatars of the first three members. If there are no members yet, no avatars will be shown. The text "No expenses" will appear, indicating that no expenses have been added to the group yet.
 
 ![7](images/Group__Expensless_.png)
 
-Clicking on the group will take you to the information relating to said group.This includes the name at the top, the icon underneath which you can easily edit by clicking it. The description you wrote, the list of memebers with a big plus to signal where to click o add a member to this group, and finally an area for where the expenses created for this group will be displayed (none at the moment). Instead a message saying "No expenses" and "Add an expense" are visible, the latter actually being a button that takes you to the Add expense tab.
+Tapping on the group will reveal its information. At the top, you'll see the group's name, followed by an editable icon below it. There's also the description you've provided and a list of members, with a prominent plus sign indicating where to click to add a new member to the group. At the bottom, there’s a section where expenses for this group will be displayed (currently empty). Instead of expenses, you'll see a message that says "No expenses" along with a button labeled "Add an expense," which redirects you to the Add Expense tab.
 
 ![8](images/Add_expense.png)
 
-When clicking on the "add expense" text or the Add button on the bottom on the hot bar, you get taken to the "Add expense" tab. This tab starts off with a search bar with a filter that allows you to look up a specific group that you want to add the expense to. Beneath is a horizontally scrollable tab with widgets of each group you have. By default the group you are in when clicking add expense will be selected but you can choose specifically which group you would like by simply clicking on the group when scrolling.
-Beneath is the information about the expense including: A description, the amount, and the date of the expense. You can change the type of expense by clicking on the icon next to "Descripton" and you can change the type of currency by clicking on the icon next to the "amount". After that is the splitting function, which starts off with three buttons that allow you to switch between ways of splitting the expense including: Manually, Percentage and Equally. Underneath is then listed all the memebers of the group you previously selected showing the amount you assigned to each. If you would like to modify the shares you can click on the amount and a keyboard will pop to allow you to enter the desired amount. At the bottom is the "save expense" button.
+When you click on the "Add expense" text or the Add button in the bottom hot bar, you will be taken to the "Add expense" tab. This tab begins with a search bar and a filter, allowing you to search for a specific group to which you want to add the expense. Below the search bar is a horizontally scrollable section displaying widgets for each group you have. By default, the group you were in when you clicked "add expense" will be selected, but you can choose a different group by simply clicking on it while scrolling.
+
+Below that, you'll find the expense information fields, including a description, the amount, and the date of the expense. You can change the type of expense by clicking on the icon next to "Description" and change the currency type by clicking on the icon next to "Amount." Next, you'll see the splitting function with three buttons allowing you to choose how to split the expense: manually, by percentage, or equally. Beneath this, all the members of the selected group are listed, showing the amount assigned to each. To modify the shares, you can click on the amount, which will bring up a keyboard for entering the desired amount. At the bottom of the tab is the "Save expense" button.
 
 ![9](images/Group__With_expenses_.png)
 
-Once you clicked the "Save expense" you are taken back to the group the expense was added to which is the same as the specific group tab however this time the Expenses are now listed in the area that was previously blank andeach expense is clickable to take you to an information page about the expense.
+Once you click "Save expense," you are taken back to the group where the expense was added. This view is similar to the specific group tab, but now the expenses are listed in the previously blank area. Each expense is clickable, taking you to an information page about that expense.
 
 ![10](images/Expense_viewer.png)
 
-In the expense viewer tab you see the information related to the specific expense such as: The Name of the expense, the date it was set to, to buttons tat allow you to Resolve or Delete the expense, a breakdown of the Expense saying who paid for the expense and then a list of all the people involved and who still owes money and who has settled their debt. Beneath that is then a "History" area that lists all the activity in this expense such as when someone has settled their debt. In the top right is an edit button that would allow you to edit the expense if you would like to change them amount that was due or add new people to the expense.
+In the expense viewer tab, you can see the details of the specific expense, including the name of the expense, the date it was set, and buttons to resolve or delete the expense. It also includes a breakdown of the expense, showing who paid for it, a list of all the people involved, and the status of their payments (who still owes money and who has settled their debt). Below that is a "History" section that lists all activity related to this expense, such as when someone has settled their debt. In the top right corner, there is an edit button that allows you to modify the expense, such as changing the amount due or adding new people to the expense.
 
-From the expense viewer, once you click back and go back to the Group tab and then proceed to click on the "plus" sign next to the Members in the group it takes you to the following page.
+From the expense viewer, if you click back and return to the Group tab, and then click on the "plus" sign next to the Members, you will be taken to the following page.
 
 ![11](images/Add_members.png)
 
-In this tab you have a search bar with filter to look up people that are in your "Friends". Beneath is the current memebers in the group we are in and beneath is the list of your remaining friends that are not in the group. If you click on the "Select" on a friend it will then ask you to confirm to add siad friend:
+In this tab, you have a search bar with a filter to look up people in your "Friends" list. Below the search bar, you'll see the current members of the group you are in, followed by a list of your remaining friends who are not in the group. If you click "Select" on a friend, you will be prompted to confirm adding that friend to the group.
 
 ![12](images/Add_members-2.png)
 
-If you would like to remove a friend you click on the icon of the desired member you would like to remove and then a similar pop out will appear:
+If you want to remove a friend, click on the icon of the member you wish to remove, and a similar pop-up will appear to confirm the removal.
 
 ![13](images/Add_members-1.png)
 
-If you are missing a friend, as in you would like to add someone but they are not in your firends list there is the button "Add new friend" located beneath the list of friends, clicking it takes you to the following:
+If you are missing a friend and would like to add someone who is not in your friends list, there is an "Add new friend" button located beneath the list of friends. Clicking this button will take you to the following page.
 
 ![14](images/Add_friend.png)
 
-In here is a search and filter that allows you to look up a person that uses the app with their email or username. A few options are given in a list beneath and once you have found the desired person you would like to add as friend you click on the "add" button which then comes up with a pop to confirm:
+Here, you will find a search and filter feature that allows you to look up a person who uses the app by their email or username. A list of matching options will appear below. Once you have found the person you want to add as a friend, click the "Add" button, which will prompt a confirmation pop-up.
 
 ![15](images/Add_friend-1.png)
 
-Clicking back takes us to the add members and clicking back again takes us to the specific group tab and clicking it again takes us to the "Groups" tab where all your groups are listed. Since we have ceated one group which now contains an expense it looks as follows:
-
+Clicking back takes you to the add members page. Clicking back again returns you to the specific group tab. Clicking back once more takes you to the "Groups" tab, where all your groups are listed. Since we have created one group which now contains an expense, it looks as follows:
 
 ![16](images/Group_tab__filled__+_Expenses.png)
 
-This is the same as before except that now the group tab doesn't say "No expenses" but instead specifies the net amount that you are owed or that you owe accross all the expenses in the group, allowing you to see if you are up or down money in that group. Another thing is the widget expends to include a drop down that will list the top three people that either owe you or that you owe to. This is limited to three and then "..." to avoid being too large. We will now take a look at he "Friends" tab which we access by either clicking the button at the top right or by simply swiping right on your screen.
+This view is similar to before, but now the group tab no longer says "No expenses." Instead, it shows the net amount you are owed or owe across all the expenses in the group, allowing you to see if you are up or down money in that group. Additionally, the widget expands to include a drop-down list displaying the top three people who either owe you money or to whom you owe money. This list is limited to three entries, followed by "..." to avoid becoming too large.
+
+Now, let's take a look at the "Friends" tab, which you can access by either clicking the button at the top right or by swiping right on your screen.
 
 ![17](images/Friends.png)
 
-In this tab is located all of your friends that you have in the app. each shows the net amount that you owe or that they owe you, allowing you to quickly see who it is you actually owe money to. There is a search feature again to look up a specific friend and also an "Add new friend" button which takes you to the tab previously mentioned. Now we will explore the hot bar by clicking the "analytics icon".
+In this tab, you will find all of your friends who are using the app. Each friend shows the net amount you owe them or they owe you, allowing you to quickly see who you actually owe money to. There is also a search feature to look up a specific friend, and an "Add new friend" button that takes you to the previously mentioned tab. Now, let's explore the hot bar by clicking on the "analytics icon."
 
 ![18](images/Analytics.png)
 
-This tab has a lot of information regarding you in the app. At the top is the total amount you owe and are due acroos all groups and expenses. Below are the top three friends that owe you money and that you owe money to. Then is a pie chart showing the spread of the amount spent on each type of expense, and then is a bar graph that shows you your personal expenses history. This is able to switch between monthly, weekly and daily. and finally is another bar graph showing the spendings of a specific group, you can either select which group to view and also which category to view, by default those will be to "All categories".
+This tab provides detailed information about your activity in the app. At the top, you'll see the total amount you owe and are due across all groups and expenses. Below that, there are sections for the top three friends who owe you money and the top three friends you owe money to.
+
+Next, there is a pie chart displaying the distribution of the amount spent on each type of expense. Following that is a bar graph showing your personal expenses history, which you can switch between monthly, weekly, and daily views. Finally, there is another bar graph showing the spending of a specific group. You can select which group to view and choose the category to display, with the default set to "All categories."
 
 ![19](images/Activity.png)
 
-Clicking on the icon "Activity" takes us to this tab which includes a list of all the new expenses added in all groups order in chronological order. There is a search and filter feature to help you locate a specific one. Each widget showes you the amount you owe or are owed in that expense and waht group it is in as well as some of the avatars of the group members. On the right of each is a resolve button to allow you to settle a debt immediatly from the activity tab without having to go all the way into the group and into that expense. However clicking the widget will also take you to that expense inforamtion tab. Clicking on resolve will bring up a pop up as follows:
+Clicking on the "Activity" icon takes us to this tab, which includes a list of all the new expenses added across all groups, ordered chronologically. There is a search and filter feature to help you locate a specific expense. Each widget shows the amount you owe or are owed in that expense, the group it belongs to, and some avatars of the group members. On the right of each widget is a "Resolve" button, allowing you to settle a debt immediately from the activity tab without having to navigate into the group and then into the specific expense. However, clicking the widget itself will also take you to the expense information tab. Clicking on "Resolve" will bring up a pop-up as follows:
 
 ![20](images/Frame_15.png)
 
-by clicking confirm the purple "resolve" button fades to a grey. If you would like to unresolve the expense clicking on the grey out button will show with the following pop up:
+By clicking confirm, the purple "resolve" button fades to grey. If you want to unresolve the expense, clicking on the greyed-out button will bring up the following pop-up:
 
 ![21](images/Frame_14.png)
 
-Finally is the profile icon in the bottom right of the hot bar. this takes you to the following:
+Finally, the profile icon in the bottom right of the hot bar takes you to the following page:
 
 ![22](images/Profile__default_.png)
 
-This is all the information regarding you. Each information can be clicked on which takes you to a page to modify said information. Clicking on your avatar brings up a pop up:
+This page contains all the user's information in a central location. Each field is clickable and takes the user to a page where they can modify that specific information. Clicking on your avatar brings up a pop-up to change the profile photo.
 
 ![23](images/Image_change.png)
 
-Clicking on "Name" :
+Clicking on "Name" will take you to a page where you can update your name.
 
 ![24](images/Name.png)
 
-Clicking on "Username" :
+Clicking on "Username" will take you to a page where you can update your username.
 
 ![25](images/Username.png)
 
-Clicking on "Pronouns" :
+Clicking on "Pronouns" will take you to a page where you can update your pronouns.
 
 ![26](images/Pronouns.png)
 
-Clicking on "Bio" :
+Clicking on "Bio" will take you to a page where you can update your bio.
 
 ![27](images/Bio.png)
 
-Clicking on "Gender" :
+Clicking on "Gender" will take you to a page where you can update your gender.
 
 ![28](images/Gender.png)
 
-Clicking on "Email" :
+Clicking on "Email" will take you to a page where you can update your email.
 
 ![29](images/Email.png)
 
-Clicking on "Phone number" :
+Clicking on "Phone number" will take you to a page where you can update your phone number.
 
 ![30](images/Phone_number.png)
 
-and then you get a more filled in profile as follows, the last button is a switch to go between dark and light mode for the app.
+The below image displays filled-in profile page. The last button on this page is a switch to toggle between dark and light mode for the app.
 
 ![31](images/Profile__Filled_in_.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
