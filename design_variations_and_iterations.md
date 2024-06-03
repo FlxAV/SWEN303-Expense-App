@@ -14,7 +14,7 @@ We also experimented with adding colour to the navigation, highlighting the cent
 ![Updated Dashboard Wireframe](images/navigation-design-2.png)
 
 ### Logos Ideas
-- **Design Choices:** Felix created some mock up logos for the app, providing us potential options we could use.
+- **Design Choices:** Elliott created some mock up logos for the app, providing us potential options we could use.
 
 ![Updated Dashboard Wireframe](images/logo-designs.png)
 
