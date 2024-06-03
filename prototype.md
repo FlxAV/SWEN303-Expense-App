@@ -8,26 +8,29 @@ https://www.figma.com/proto/7yPqz8OkOydUZzwXjxEDfI/Merging-Wireframes?page-id=11
 
 ## Prototype Description
 
+When opening the app, the user is presented with the getting started screen, allowing them to "**Log in**" or "**Sign Up**".
+
 ![1](images/Get_Started.png)
 
-The get started gives you the option to "Log in" or "Sign Up".
+Clicking "**Sign Up**" will take you to the page below, requiring information to create a new account. Options to sign up using Google or Apple are offered, making the process smoother.
 
 ![2](images/Create_Account.png)
 
-If you click on "Sign Up" you get taken to this page which requires you to fill in some information and set up a password, there is also the option so sign up using Google or Apple.
+When clicking "**Log In**", the below screen is shown requesting the users email and password.
 
 ![3](images/Log_In.png)
 
-If you click on "Log In" this is the page which asks for your email and password, or to log in using Apple or Google.
+Once Logged in you are taken to the main "**Manage**" tab. If no groups have been created, it will look like the below screenshot with only a button to create a group. The tabs located at the top, "**Groups**" and "**Friends**" allow the user to swipe left and right between the two. There is a hot bar located at the bottom with 5 buttons: "**Manage**", "**Analytics**", "**Add**", "**Activity**", and "**Profile**".
 
 ![4](images/Group_tab__un-filled_.png)
 
-Once Logged in you are taken to the main screen, which is the manage tab. In here if you have no groups it will look like so with a button to create groupe located in the middle in purple. Other noticeable things are the groups and friends tabs at the top which you can actually swipe left and right between the two. As welll as the hot bar at the bottom with 5 buttons: Manage, Analytics, Add, Activity, Profile.
+After clicking on the purple "**+ Create new group**" button you are taken to a tab to create said group. At the top would be the selected icon for the group with a plus which allows you to modify this to your liking (such as a waterdrop for water bills, lighting for electricity bill, etc). There are text fields for the group name, description, and a search bar. This search bar allows the user to look up the name of a friend that is in your friends list, along with a filter which lets the user narrow down their search.
+
+Beneath it is the members you have currently added to your group with a button that allows you to remove them if unwanted from the group. Beneath that again is a list of all your friends in alphabetical order which you can scroll through. In the top left is "**Back**" with an arrow, this would just take you back to the groups tab. At the top right is "**Done**" which you click once you have completed all the steps required for creating a group.
 
 ![5](images/Create_new_group.png)
 
-After clicking on the purple "+Create new group" button you are taken to a tab to create said group. At the top would be the default icon for a group with a plus which allows you to modify this image to your liking. There is a space to insert a name for the group, a space for a description, and a search bar. This search bar is look up the name of a friend that is in your friends list, there is a filter icon which allows you to narrow down your searching.
-Beneath it is the members you have currently added to your group with a button that allows you to remove them if unwanted from the group. Beneath that again is a list of all your friends in alphabetical order which you can scroll through. In the top left is "Back" with an arrow, this would just take you back to the groups tab. At the top right is "Done" which you click once you have completed all the steps required for creating a group ("Done" is in the prototype however this image is missing it).
+
 
 ![6](images/Group_tab__filled_.png)
 
