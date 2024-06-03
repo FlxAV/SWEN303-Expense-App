@@ -1,7 +1,7 @@
 # Design Ideation
 
 ## Introduction
-This section documents the ideation process for our app prototype. It includes the original designs from Assignment 2 and the subsequent revisions and iterations that led to our final design choices.
+This section documents the ideation process for our app prototype. It includes the original designs from Assignment 2 and the user flows each for each proposed design. These designs will be merged together while taking into account various UI/UX design rules, leading to our final design.
 
 ## Original Designs from Assignment 2
 
@@ -91,7 +91,7 @@ These designs aim to streamline the user experience by making key functions easi
 
 ### Elliot Rose:
 
-**Add tab **
+**Add tab**
 
 Here we can see my add function for my manage tab.
 Inside here the user is able to create a new expense and assign it to a specific group. 
@@ -124,24 +124,11 @@ The only option that you are given the oppertunity to change is the date range a
 
 ### James Fitzgerald:
 
-![Dillon Dashboard Page](images/WF1.1.JPG)
+![James Image 2](images/WF1.1.JPG)
 
-![Dillon Dashboard Page](images/WF2.1.JPG)
+![James Image 2](images/WF2.1.JPG)
 
-![Dillon Dashboard Page](images/WF3.1.JPG)
-
-## User Flows
-### User Flow 1: Adding an Expense
-1. **Starting Point:** User is on the dashboard.
-2. **Action:** User clicks "Add Expense" button.
-3. **Expected Outcome:** User is taken to the "Add Expense" screen.
-4. **Actual Outcome:** Matches expected outcome. No issues found.
-
-### User Flow 2: Splitting a Bill
-1. **Starting Point:** User is on the dashboard.
-2. **Action:** User selects a bill to split.
-3. **Expected Outcome:** User is taken to the "Split Bill" screen.
-4. **Actual Outcome:** Matches expected outcome. No issues found.
+![James Image 2](images/WF3.1.JPG)
 
 ## Conclusion
 The wireframes and user flows presented here form the foundation of our app prototype. These designs were iteratively improved based on usability principles, guiding the development of the functional prototype.
