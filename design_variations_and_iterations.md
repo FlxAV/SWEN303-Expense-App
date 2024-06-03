@@ -18,6 +18,11 @@ We also experimented with adding colour to the navigation, highlighting the cent
 
 ![Updated Dashboard Wireframe](images/logo-designs.png)
 
+### Icons
+- **Design Choices:** As a group we determined which icons we thought would be best to use across the app, and also within the navigation. The icons across the app were updated as required.
+
+![Updated Dashboard Wireframe](images/icons.png)
+
 ### Colour Scheme
 - **Design Choices:** Selected a color scheme that is both visually appealing and accessible. The colors were chosen to ensure readability and a pleasant user experience. The primary colour of purple was chosen as it is associated with wealth and finance.
 
