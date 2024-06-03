@@ -55,15 +55,17 @@ Task: changing group members
 
 ## Heuristic Evaluation - Completed by Dillon
 
+Task: Create and edit a group
+
 | Heuristic                         | Severity | Issues | Recommendation/Comments |
 |-----------------------------------|----------|--------|--------------------------|
-| Visibility of System Status       |          |        |                          |
-| Match between system and the real world |          |        |                          |
-| User control & freedom            |          |        |                          |
-| Consistency & standards           |          |        |                          |
-| Error prevention                  |          |        |                          |
-| Recognition rather than recall    |          |        |                          |
-| Flexibility & efficiency of use   |          |        |                          |
-| Aesthetic & minimalist design     |          |        |                          |
-| Help users recover                |          |        |                          |
-| Help & documentation              |          |        |                          |
+| Visibility of System Status       | 1 | The prototype shows clear titles at the top indicating the current screen/status (e.g. "Create Group", "MoneyMates") | Maintain this clarity in all parts of the app. |
+| Match between system and the real world | 1 | The language used is simple and matches real-world terminology related to flatmate expenses. One minor issue is "No Expenses" label is a bit system-oriented. | Consider changing "No Expenses" to a more user-friendly message like "You have no expenses yet" |  
+| User control & freedom            | 0 | The prototype has a persistent bottom navigation bar allowing easy movement between sections. There is also a clear way to exit/cancel creating a group once started by using the "Back" button. | No changes required |
+| Consistency & standards           | 1 | Interface elements like buttons, icons, and layout appear consistent across screens. One inconsistency is the "Done" button to finish group creation - most apps use "Create" or "Save". | Change "Done" to "Create Group" to better align with interface conventions | 
+| Error prevention                  | 2 | Currently the prototype does not show any error prevention if required fields are left blank when creating a group. | Add field validation and prevent form submission until all required details are entered |
+| Recognition rather than recall    | 0 | Main actions like creating groups and expenses are visible on the home screen, minimizing need for user recall. Icons and buttons are clear and recognizable. | No changes needed |
+| Flexibility & efficiency of use   | 1 | The prototype demonstrates a simple, focused design suitable for novice users. Power user shortcuts could be an enhancement for more efficient use. | Consider adding shortcuts like swipe gestures or long-press for common actions |
+| Aesthetic & minimalist design     | 0 | Clean, minimal design with ample white space and only relevant content shown. Effective use of color to highlight key actions. | Ensure the design remains minimal and focused on essential elements. |
+| Help users recognize, diagnose, and recover from errors | 3 | No visible error recovery options are present. The prototype does not yet demonstrate error handling, so users may get stuck if they encounter a problem. | Create helpful error messages to identify issues and suggest solutions. Provide a way to report problems within the app. |
+| Help & documentation              | 3 | There is no obvious way to access help or documentation in the prototype. | Add an easily accessible help section with FAQs, tutorials and a way to contact support if needed. Consider brief intro tooltips for new users. |
