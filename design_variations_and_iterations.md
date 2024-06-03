@@ -47,6 +47,8 @@ Here Elliott applied the colour scheme to the header designs to determine which 
 ![Updated Dashboard Wireframe](images/iteration-group-layouts.png)
 
 Here we Felix further exanded up the logic of the amounts that should be displayed..
+
+
 ![Updated Dashboard Wireframe](images/money-display.png)
 
 ### Manage Page Flow
