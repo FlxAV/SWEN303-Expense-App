@@ -33,11 +33,11 @@ We also experimented with adding colour to the navigation, highlighting the cent
 
 ![Updated Dashboard Wireframe](images/header-iterations.png)
 
-Here we applied the colour scheme to the header designs to determine which was the most appealing to a user.
+Here Elliott applied the colour scheme to the header designs to determine which was the most appealing to a user.
 ![Updated Dashboard Wireframe](images/final-header-iterations.png)
 
 ### Activity Page Content
-- **Design Choices:** Designs were created for the activity page, with the content on each individual group. What quick information should be shown to the user before they proceed to tap on the group to show all the associated expense and group information.
+- **Design Choices:** Designs were created for the activity page, with the content on each individual group. What quick information should be shown to the user before they proceed to tap on the group to show all the associated expense and group information. Felix and Elliott iterated through a few designs.
 
 ![Updated Dashboard Wireframe](images/activity-bar-ideas.png)
 
@@ -46,13 +46,18 @@ Here we applied the colour scheme to the header designs to determine which was t
 
 ![Updated Dashboard Wireframe](images/iteration-group-layouts.png)
 
-Here we Felix further iterated upon the idea.
+Here we Felix further exanded up the logic of the amounts that should be displayed..
 ![Updated Dashboard Wireframe](images/money-display.png)
 
 ### Manage Page Flow
 - **Design Choices:** The "Manage" page user flow was iterated upon and revised several times after brainstorming. Trying to achieve the most effective method for the user to add groups, add expenses the the group and add friends.
 
 ![Updated Dashboard Wireframe](images/manage-tab-flow.png)
+
+### Add Expense Content
+- **Design Choices:** Basic mockups of differnt iterations of the spliting function were creted by Felix. 
+
+![Updated Dashboard Wireframe](images/DesignFlow6.png)
 
 ## Design Rationale
 - **Consistency:** Maintained a consistent design language throughout the app to ensure a smooth user experience.
