@@ -10,7 +10,6 @@ This project is a prototype for an app that helps flatmates manage their expense
 - [Design Variations and Iterations](design_variations_and_iterations.md): Documentation of the different designs being merged and iterated upon to produce a final product.
 - [Design Review](design_review.md): Evaluation of the designs, including the pros and cons of each design and the methods used for evaluation.
 - [Prototype](prototype.md): Description of the prototype, including all interactions and how the input from the group was integrated.
-- [Reflection](reflection.md): Individual reflection reports from each group member.
 - [Video Demonstration](video_link.md): Link to the video demonstrating the prototype.
 
 ## Members
