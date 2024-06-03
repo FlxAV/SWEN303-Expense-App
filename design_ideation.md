@@ -91,15 +91,33 @@ These designs aim to streamline the user experience by making key functions easi
 
 ### Elliot Rose:
 
-**Description of App from Assignment 2**
+**Add tab **
+
+Here we can see my add function for my manage tab.
+Inside here the user is able to create a new expense and assign it to a specific group. 
+The user is given the option to specify the following information: 
+Date range, Category, Cost of the expense, Sharing the expense between group members, How much each member paid towards it, and a description of the expense. 
+Once finished with the process the user is asked to confirm by putting an overlay over the screen and asking to either confirm or cancel. 
+The whole process is made streamlined by the direct top to bottom flow of entering data as well as highlighting user entered data from grayed out to black, as well as using overlays for selected members.
 
 ![Elliot1](images/Elliot1.png)
 
-**Description of App from Assignment 2**
+**Debt tab**
+
+On this tab we can see the debt between the user and his/her group members. 
+The user is shown through various graphs/tables the desired data. 
+They are also given the option to choose the date range for the data and the members wanting to be shown.
+Once these options are decided they are also given the option to settle certain debts by highlighting them and confirming them. 
+Once again for design consistency there is an overlay used for the confirmation.
+Follows a very streamlined top to bottom flow like previous page.
+
 
 ![Elliott2](images/Elliott2.png)
 
-**Description of App from Assignment 2**
+**Overview tab**
+
+This tab is purely for view only. 
+The only option that you are given the oppertunity to change is the date range and this will change the way the data is presented to the user accordingly.
 
 ![Elliott3](images/Elliott3.png)
 
