@@ -91,7 +91,17 @@ These designs aim to streamline the user experience by making key functions easi
 
 ### Elliot Rose:
 
+**Description of App from Assignment 2**
 
+![Elliott1](images/Elliott1.jpg)
+
+**Description of App from Assignment 2**
+
+![Elliott2](images/Elliott2.jpg)
+
+**Description of App from Assignment 2**
+
+![Elliott3](images/Elliott3.jpg)
 
 
 ### James Fitzgerald:
