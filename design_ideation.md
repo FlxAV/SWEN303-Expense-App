@@ -93,6 +93,15 @@ These designs aim to streamline the user experience by making key functions easi
 
 
 
+
+### James Fitzgerald:
+
+![Dillon Dashboard Page](images/WF1.1.JPG)
+
+![Dillon Dashboard Page](images/WF2.1.JPG)
+
+![Dillon Dashboard Page](images/WF3.1.JPG)
+
 ## User Flows
 ### User Flow 1: Adding an Expense
 1. **Starting Point:** User is on the dashboard.
