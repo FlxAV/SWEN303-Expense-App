@@ -19,6 +19,8 @@ We chose to employ a heuristic evaluation method based on Nielsen's 10 Usability
 
 ## Heuristic Evaluation - Completed by Felix
 
+Task: Add an Expense
+
 | Heuristic                         | Severity | Issues | Recommendation/Comments |
 |-----------------------------------|----------|--------|--------------------------|
 | Visibility of System Status       |     2     |   The process of adding an expense and selecting group members is not immediately apparent, requiring users to navigate and scroll through the interface.     |             Implement a clearer indication of the selected group and provide real-time feedback during the process of adding an expense. For example, a prominent display or confirmation message when a group is selected or a member is added to the expense.              |
